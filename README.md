@@ -1,5 +1,7 @@
 # 🕒 Minimal Clock
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A simple, clean, and lightweight clock app with multiple themes. Designed for minimalists who want an elegant time display without distractions.
 
 ---
