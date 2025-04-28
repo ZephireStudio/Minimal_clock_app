@@ -46,13 +46,6 @@ Flutter
 
 Dart
 
-🧠 Future Plans
-Customizable Pomodoro times
-
-More sound options
-
-Full UI redesign (planned for v2.0.0)
-
 🤝 Contributions
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
