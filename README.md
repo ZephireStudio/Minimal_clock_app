@@ -1,41 +1,67 @@
-# 🕒 Minimal Clock
+🕒 Minimal Clock App
+A minimal clock app with built-in Pomodoro Timer, sound notifications, and PC support.
+Designed for simplicity and productivity.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A simple, clean, and lightweight clock app with multiple themes. Designed for minimalists who want an elegant time display without distractions.
+✨ Features
+⏰ Clock & Timer — Track time easily.
 
----
+🍅 Pomodoro Timer — Manage your work/break cycles.
 
-## ✨ Features
-- 🌓 Multiple themes (Light, Dark, and more)
-- ⏱️ Accurate and responsive time display
-- 📱 Smooth performance on all Android devices
-- 🎯 Focused on minimal UI and ease of use
+🔔 Sound Alerts — Audio cues for sessions and breaks.
 
----
+🎨 Light and Dark Themes — Choose your preferred look.
 
-## 📦 Download APK
-[Download v1.0.0](https://github.com/ZephireStudio/Minimal_clock_app/releases/tag/v1.0.0)
+🖥️ Cross-Platform — Works on both mobile and PC.
 
-> Go to the **Assets** section and download the `.apk` file.
+📦 Installation
 
----
 
-## 🔧 Tech Stack
-- Flutter + Dart
-- Material Design
+🔴 Clone the repository:
+ - git clone https://github.com/ZephireStudio/Minimal_clock_app.git
 
----
+🔴 Navigate to the project folder:
+ - cd Minimal_clock_app
 
-## 🤝 Contribute
-Found a bug or have a feature request?  
-[Open an issue →](https://github.com/ZephireStudio/Minimal_clock_app/issues)
+🔴 Run the app:
+ - flutter run
 
----
+(Make sure you have Flutter installed.)
 
-## 🛡 License
-MIT License – free to use, modify, and share.
+🚀 Latest Update — v1.2.0
+Added Pomodoro Timer with break sessions.
 
----
+Integrated sound notifications.
 
-Made with ❤️ by **Zephire Studio**
+Minor UI adjustments (alignment, spacing).
+
+Now supports PC builds.
+
+Bug fixes and performance improvements.
+
+→ See full changelog
+
+🛠️ Built With
+Flutter
+
+Dart
+
+🧠 Future Plans
+Customizable Pomodoro times
+
+More sound options
+
+Full UI redesign (planned for v2.0.0)
+
+🤝 Contributions
+Pull requests are welcome!
+For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+This project is licensed under the MIT License.
+See LICENSE for details.
+
+🚀 Stay productive with Minimal Clock App!
+✅ Version badge ready
+✅ Repo links correct (your GitHub)
+✅ Copy-paste with no editing needed (except screenshots if you want later)
