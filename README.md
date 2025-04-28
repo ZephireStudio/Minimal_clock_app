@@ -1,5 +1,5 @@
 🕒 Minimal Clock App
-A minimal clock app with built-in Pomodoro Timer, sound notifications, and PC support.
+- A minimal clock app with built-in Pomodoro Timer, sound notifications, and PC support.
 Designed for simplicity and productivity.
 
 
