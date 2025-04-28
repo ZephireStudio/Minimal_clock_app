@@ -4,18 +4,15 @@ Designed for simplicity and productivity.
 
 
 ✨ Features
+
 ⏰ Clock & Timer — Track time easily.
-
 🍅 Pomodoro Timer — Manage your work/break cycles.
-
 🔔 Sound Alerts — Audio cues for sessions and breaks.
-
 🎨 Light and Dark Themes — Choose your preferred look.
-
 🖥️ Cross-Platform — Works on both mobile and PC.
 
-📦 Installation
 
+📦 Installation
 
 🔴 Clone the repository:
  - git clone https://github.com/ZephireStudio/Minimal_clock_app.git
@@ -29,15 +26,11 @@ Designed for simplicity and productivity.
 (Make sure you have Flutter installed.)
 
 🚀 Latest Update — v1.2.0
-Added Pomodoro Timer with break sessions.
-
-Integrated sound notifications.
-
-Minor UI adjustments (alignment, spacing).
-
-Now supports PC builds.
-
-Bug fixes and performance improvements.
+- Added Pomodoro Timer with break sessions.
+- Integrated sound notifications.
+- Minor UI adjustments (alignment, spacing).
+- Now supports PC builds.
+- Bug fixes and performance improvements.
 
 → See full changelog
 
