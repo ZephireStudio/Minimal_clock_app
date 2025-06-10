@@ -28,7 +28,7 @@ A lightweight, cross-platform clock app built with a minimal aesthetic. Includes
 
 ## 🖼️ Screenshots
 
-| Clock UI (Dark Mode) | Pomodoro Timer |
+| Clock 1/5 Theme | Pomodoro Timer |
 |----------------------|----------------|
 | ![Screenshot 2025-04-28 085543](https://github.com/user-attachments/assets/c177881d-255d-4d2e-998f-293d20f9ddd0) | ![Screenshot 2025-04-28 085443](https://github.com/user-attachments/assets/068dc766-cbb4-44d8-8601-98dddf661966)|
 
