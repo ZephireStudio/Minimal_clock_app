@@ -1,71 +1,43 @@
 # 🕒 Minimal Clock App
 
----
-
-A lightweight clock app with a built-in Pomodoro timer, sound notifications, and multi-platform support.
-Designed for simplicity, focus, and productivity.
+A lightweight, cross-platform clock app built with a minimal aesthetic. Includes Pomodoro functionality, stopwatch, themes, and more — all with responsive design for both desktop and mobile.
 
 ---
 
 ## ✨ Features
 
-* **Clock & Timer** — Track time with a minimal design.
-* **Pomodoro Sessions** — Stay productive with built-in work/break cycles.
-* **Sound Notifications** — Get notified with clean audio cues.
-* **Light and Dark Themes** — Switch according to your environment.
-* **Mobile and PC Support** — Run seamlessly on different devices.
+- ⏰ **Digital Clock**, **Timer**, and **Stopwatch**
+- 🧠 **Pomodoro Timer** with custom session options
+- 🎵 **Sound Alerts** for session transitions
+- 🎨 **Multiple Themes** (more coming soon!)
+- 🌙 **Dark & Light Mode**
+- 🖥️ **PC-Only Feature**: Always on Top Window
+- 📱🖥️ **Responsive Design** (Mobile + PC)
 
 ---
 
-## 🚀 Latest Update — v1.2.0
+## 📥 Downloads
 
-Added Pomodoro Timer with breaks and sounds.
+> **Latest Version:** `v1.3.0`  
+> [Release Notes](https://github.com/ZephireStudio/Minimal_clock_app/releases)
 
-Improved theme and layout adjustments.
-
-PC (desktop) version support added.
-
-Minor bug fixes and performance optimizations.
-
-[**See full changelog →**](https://github.com/ZephireStudio/Minimal_clock_app/releases)
+- 🔗 **Windows (ZIP):** [Download Link Here](#)  
+- 📱 **Android APK:** [Download Link Here](#)
 
 ---
 
-## 🛠️ Tech Stack
+## 🖼️ Screenshots
 
-* [Flutter](https://flutter.dev/)
-* [Dart](https://dart.dev/)
-
----
-
-## 📸 Screenshots
-
-**(Coming soon)**
+| Clock UI (Dark Mode) | Pomodoro Timer |
+|----------------------|----------------|
+| ![Screenshot 2025-04-28 085543](https://github.com/user-attachments/assets/c177881d-255d-4d2e-998f-293d20f9ddd0) | ![Screenshot 2025-04-28 085443] https://github.com/userattachments/assets/e0575d36-9b28-46b4-b020-7f973e9ec795) |
 
 ---
 
-## 📄 License
+## 🚀 Getting Started (Developers)
 
-Licensed under the [MIT License](https://github.com/ZephireStudio/Minimal_clock_app/blob/V1.2.0/LICENSE).
+Clone the repository:
 
----
-
-## Release Notes (Example)
-
-**v1.2.0 (Latest)**
-
-* Added Pomodoro timer feature.
-* Improved theme and layout.
-* Added PC support.
-* Fixed minor bugs.
-
----
-
-**v1.1.0**
-
-* Initial release with basic clock and timer functionality.
-* Added light and dark theme support.
-
----
-
-## 🚀 Stay minimal. Stay productive.
+```bash
+git clone https://github.com/ZephireStudio/Minimal_clock_app.git
+cd Minimal_clock_app
