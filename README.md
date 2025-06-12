@@ -42,3 +42,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/ZephireStudio/Minimal_clock_app.git
 cd Minimal_clock_app
+
+
+## The New Updated Source file would be added soon😅
+- As there are some new bugs fixed and some accidentally deleted things i have cover up 😁
+
+Peace. ✌️
