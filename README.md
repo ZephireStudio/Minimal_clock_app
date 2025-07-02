@@ -11,6 +11,7 @@ A beautifully simple and lightweight Flutter clock app built for minimalists.
 - ⏰ Clean and distraction-free UI
 - 🌗 Light/Dark theme support
 - 📱 Fully responsive — works on all screen sizes
+- 💻 Now supports PC with an **always-on-top** feature — view the clock even while working!
 - ⚡️ Fast and smooth performance
 - 🛠 Built using Flutter
 
